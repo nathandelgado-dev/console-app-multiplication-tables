@@ -1,5 +1,5 @@
 {
-  "name": "03-bases-node",
+  "name": "multiplication-tables",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
     "yargs": "^17.2.1"
